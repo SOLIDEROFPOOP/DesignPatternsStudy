@@ -1,3 +1,5 @@
+package singleton_pattern;
+
 public class Singleton {
     private static volatile Singleton instance;
     private String data;
